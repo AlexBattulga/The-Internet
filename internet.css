@@ -48,7 +48,7 @@ header img{
     padding-left: 4px;
     display: inline-block;
     position: relative;
-    bottom: 220px;
+    vertical-align: top; /* added vertical-align top instead of bottom 220px */
 }
 .left-side-top h4{
     font-size: 13px;
